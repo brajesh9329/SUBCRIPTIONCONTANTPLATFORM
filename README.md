@@ -24,9 +24,7 @@ The vision is to empower creators with a decentralized monetization system and t
 - Role-based access for content creators
 
 ## 📝 Contract Details
-*(To be filled manually after deployment)*
-- **Deployed Address:** 
-- **Deployed Network:** Core Blockchain Testnet
-- **Deployed By:** 
-- **Deployment Date:** 
-![Uploading newwww.png…]()
+0xdF218979Ccb548BCb072bAbf126De046Ee11B127
+
+![image](https://github.com/user-attachments/assets/57b69e6c-32d0-473c-8c5e-404af792e558)
+
